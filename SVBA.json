@@ -1,0 +1,19 @@
+{
+	"id": "SVBA",
+	"name": "Shellular's Various Balatro Additions",
+	"display_name": "Shellular's Various Balatro Additions",
+	"author": ["Shellular"],
+	"description": "A mod which aims to feel like a small DLC for Balatro.",
+	"prefix": "SVBA",
+	"main_file": "main.lua",
+	"priority": 6,
+	"badge_colour": "7d42fc",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.075-indev",
+	"dependencies": [
+		{
+			"id": "Steamodded",
+			"min_version": "1.0.0~ALPHA-1030e"
+		}
+	]
+}
